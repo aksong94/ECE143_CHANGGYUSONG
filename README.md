@@ -1,4 +1,3 @@
-# ECE143_indiv
 # ECE143_U07822988
 
 # header.py => helper function to main
